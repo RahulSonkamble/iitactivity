@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>How long is an IPv6 address?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>32 bits</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>128 bytes</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>64 bits</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>128 bits</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>You have 10 users plugged into a hub running 10Mbps half-duplex. There is a server connected to the switch running 10Mbps half-duplex as well. How much bandwidth does each host have to the server?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>100 kbps</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1 Mbps</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>2 Mbps</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>10 Mbps</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is the valid host range for the subnet on which the IP address 192.168.168.188 255.255.255.192 resides?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>192.168.168.129-190</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>192.168.168.129-191</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>192.168.168.128-190</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>192.168.168.128-192</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>To back up an IOS, what command will you use?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>backup IOS disk</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>copy ios tftp</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>copy tftp flash</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>copy flash tftp</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>What protocol does PPP use to identify the Network layer protocol?	</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>NCP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ISDN</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>HDLC</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>LCP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following services use TCP?
+
+   1. DHCP
+    2.SMTP
+    3.HTTP
+    4.TFTP
+    5.FTP </text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>1 and 2</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>2, 3 and 5</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1, 2 and 4</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1, 3 and 4</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking
+</text>
+    </name>
+    <questiontext format="html">
+      <text>What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Application</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Host-to-Host</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Internet</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Network Access</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>You want to implement a mechanism that automates the IP configuration, including IP address, subnet mask, default gateway, and DNS information. Which protocol will you use to accomplish this?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>SMTP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>SNMP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>DHCP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>ARP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following is private IP address?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>12.0.0.1</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>168.172.19.39</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>172.15.14.36</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>192.168.24.43</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>Which of the following allows a router to respond to an ARP request that is intended for a remote host?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Gateway DP 	</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Reverse ARP (RARP)</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Proxy ARP</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Inverse ARP (IARP)</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>Which class of IP address provides a maximum of only 254 host addresses per network ID?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>Class A</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Class B</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Class C</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Class D</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>If you use either Telnet or FTP, which is the highest layer you are using to transmit data?	</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Application</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Presentation</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Session</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Transport</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Networking</text>
+    </name>
+    <questiontext format="html">
+      <text>You need to subnet a network that has 5 subnets, each with at least 16 hosts. Which classful subnet mask would you use?</text>
+    </questiontext>
+    <image/>
+    <generalfeedback>general feedback
+</generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>True</shuffleanswers>
+    <single>true</single>
+    <correctfeedback>
+      <text>correct feedback
+</text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text>partially correct feedback
+</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text>incorrect feedback
+</text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>255.255.255.192 	</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>255.255.255.224</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>255.255.255.240</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>255.255.255.248</text>
+      <feedback>
+        <text/>
+      </feedback>
+    </answer>
+  </question>
+</quiz>
